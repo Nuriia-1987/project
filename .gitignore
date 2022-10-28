@@ -1,0 +1,13 @@
+/venv/
+/media/
+.env
+venv/
+.edea/
+.vscode/
+/_pycache/
+_pycache/
+*.py[cod]
+*.so
+/static/
+static/
+madia/
